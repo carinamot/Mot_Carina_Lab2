@@ -1,6 +1,6 @@
 using System;
 
-namespace Mot_Carina_Lab2.Models
+namespace Library_model.Models
 {
     public class ErrorViewModel
     {

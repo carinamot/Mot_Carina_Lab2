@@ -5,10 +5,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Mot_Carina_Lab2.Models;
+using Library_model.Models;
 using Microsoft.EntityFrameworkCore;
-using Mot_Carina_Lab2.Data;
-using Mot_Carina_Lab2.Models.LibraryViewModels;
+using Library_model.Models.LibraryViewModels;
+using Library_model.Data;
 
 namespace Mot_Carina_Lab2.Controllers
 {

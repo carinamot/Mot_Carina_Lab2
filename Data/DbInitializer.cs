@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Mot_Carina_Lab2.Models;
+using Library_model.Data;
+using Library_model.Models;
 
-namespace Mot_Carina_Lab2.Data
+namespace Library_model.Data
 {
     public class DbInitializer
     {

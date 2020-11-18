@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-namespace Mot_Carina_Lab2
+namespace Library_model
 {
     public class PaginatedList<T> : List<T>
     {

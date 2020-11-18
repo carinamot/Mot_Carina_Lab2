@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Mot_Carina_Lab2.Data;
-using Mot_Carina_Lab2.Models;
+using Library_model.Data;
+using Library_model.Models;
 
-namespace Mot_Carina_Lab2.Controllers
+namespace Library_model.Controllers
 {
     public class BooksController : Controller
     {

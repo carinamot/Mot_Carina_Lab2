@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Mot_Carina_Lab2.Data;
-using Mot_Carina_Lab2.Models;
-using Mot_Carina_Lab2.Models.LibraryViewModels;
+using Library_model.Data;
+using Library_model.Models;
+using Library_model.Models.LibraryViewModels;
 
 namespace Mot_Carina_Lab2.Controllers
 {

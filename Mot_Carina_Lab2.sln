@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mot_Carina_Lab2", "Mot_Carina_Lab2.csproj", "{E87548F0-418A-4A21-A99D-767272C5F69C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mot_Carina_Lab2", "Mot_Carina_Lab2.csproj", "{E87548F0-418A-4A21-A99D-767272C5F69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_model", "..\..\Lab7\Library model\Library_model.csproj", "{579803FC-2A1F-4DB6-AC9C-6356ADAC0958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryWebAPI", "..\..\Lab7\LibraryWebAPI\LibraryWebAPI.csproj", "{DB91933F-7C05-44F3-85CD-AA791A201F5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E87548F0-418A-4A21-A99D-767272C5F69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E87548F0-418A-4A21-A99D-767272C5F69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E87548F0-418A-4A21-A99D-767272C5F69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579803FC-2A1F-4DB6-AC9C-6356ADAC0958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579803FC-2A1F-4DB6-AC9C-6356ADAC0958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579803FC-2A1F-4DB6-AC9C-6356ADAC0958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579803FC-2A1F-4DB6-AC9C-6356ADAC0958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB91933F-7C05-44F3-85CD-AA791A201F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB91933F-7C05-44F3-85CD-AA791A201F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB91933F-7C05-44F3-85CD-AA791A201F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB91933F-7C05-44F3-85CD-AA791A201F5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
