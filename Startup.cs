@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Mot_Carina_Lab2.Data;
+using Library_model.Data;
 using Mot_Carina_Lab2.Hubs;
 using Microsoft.EntityFrameworkCore;
 

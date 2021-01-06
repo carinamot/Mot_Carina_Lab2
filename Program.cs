@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using Mot_Carina_Lab2.Data;
+using Library_model.Data;
 
 namespace Mot_Carina_Lab2
 {

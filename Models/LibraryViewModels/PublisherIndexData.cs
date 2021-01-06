@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Library_model.Models;
 
 namespace Mot_Carina_Lab2.Models.LibraryViewModels
 {
